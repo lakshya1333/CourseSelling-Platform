@@ -1,0 +1,5 @@
+const JWT_PASSWORD = process.env.JWT_PASSWORD
+const JWT_ADMIN_PASSWORD = process.env.JWT_ADMIN_PASSWORD
+
+
+export default {JWT_PASSWORD,JWT_ADMIN_PASSWORD}
